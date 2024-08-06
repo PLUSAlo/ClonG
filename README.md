@@ -6,6 +6,7 @@ Fue desarrollado con HTML y CSS.
 [Proyecto Desplegado (https://plusalo.github.io/ClonG/)](https://plusalo.github.io/ClonG/)
 ## Secciones de mi sitio
 ![Google](assets/pagina.jpg)
+
 ## Tecnologías
 * HTML
 * CSS
